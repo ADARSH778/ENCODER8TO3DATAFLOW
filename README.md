@@ -62,6 +62,7 @@ RegisterNumber: 212223040166
 ![Screenshot (43)](https://github.com/ADARSH778/ENCODER8TO3DATAFLOW/assets/149347361/c7f4bced-fcdd-45a0-a6c1-870e44f78df8)
 
 **RESULTS**
+
 Thus, the implementation of 8 to 3 Encoder in Dataflow Modelling using verilog is has been executed successfully.
 
 
